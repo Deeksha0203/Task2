@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    font-family: sans-serif;
+}
+
+h1{
+    color: rgb(24, 219, 173);
+    font-size: 25px;
+    text-align: center;
+}
+
+.container{
+    margin: 10px;
+}
+
+#p1{
+    margin-top: 50px;
+    font-size: 17px;
+}
+
+#geeks{
+    padding: 10px 0px;
+}
+
+#p2{
+   font-size: 14px;
+}
+
+.associate{
+    padding: 0px;
+}
+
+#demo{
+    color: rgb(127, 210, 255);
+    margin: 18px 0px;
+
+}
+
+#batch{
+    padding: 2px 0px;
+}
+
+#master{
+    padding: 0px;
+    margin-top: 0px;
+}
+
+#p3{
+    margin-top: 20px ;
+    font-size: 15px;
+}
